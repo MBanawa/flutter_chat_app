@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1081125171641",
+    "firebase_url": "https://dialogo-6b65e.firebaseio.com",
+    "project_id": "dialogo-6b65e",
+    "storage_bucket": "dialogo-6b65e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081125171641:android:a3b2057c1eee897e048668",
+        "android_client_info": {
+          "package_name": "com.zettadata.flutter_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081125171641-oiqlipn4ilo77pi9ijtk9064q41g3oi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRGaIGZimdn3SZGsxXCqTRjTceKxFuids"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081125171641-oiqlipn4ilo77pi9ijtk9064q41g3oi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
