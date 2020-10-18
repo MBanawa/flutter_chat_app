@@ -1,6 +1,6 @@
 # flutter_chat_app
 
-A mondern messaging app where users can sign up and log in to chat
+A modern messaging app where users can sign up and log in to chat
 
 ## My Goal
 
